@@ -1,0 +1,5 @@
+prn=int(raw_input("Enter principal")
+r=int(raw_input("Enter rate")
+t=int(raw_input("Enter Time")
+si=(prn*r*t)/100)
+print("Simple interestis",si)
